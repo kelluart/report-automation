@@ -1,0 +1,10 @@
+date,category,amount,description
+2026-01-01,Food,34.90,Lunch
+2026-01-02,Transport,12.50,Bus
+2026-01-02,Food,21.00,Snack
+2026-01-03,Shopping,199.90,Shoes
+2026-01-03,Food,,Dinner
+2026-01-04,Transport,15.00,Uber
+2026-01-04,Food,34.90,Lunch
+2026-01-04,Food,34.90,Lunch
+2026-01-05,Bills,320.00,Internet
